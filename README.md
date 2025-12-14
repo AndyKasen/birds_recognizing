@@ -27,3 +27,6 @@ git clone git clone https://github.com/AndyKasen/birds_recognizing.git
 cd birds_recognizing.git
 pip install -r requirements.txt
 jupyter notebook demo_birds.ipynb
+
+### Где можно найти аудиозаписи птиц:
+https://xeno-canto.org. Не забудьте скачать файл с ресурса.
