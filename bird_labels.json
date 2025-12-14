@@ -1,0 +1,817 @@
+{
+  "abethr1": {
+    "scientific": "Cichladusa arquata",
+    "english": "Collared Palm-thrush",
+    "russian": "Ошейниковый пальмовый дрозд"
+  },
+  "abhori1": {
+    "scientific": "Phoeniculus purpureus",
+    "english": "Green Wood Hoopoe",
+    "russian": "Зелёный древесный удод"
+  },
+  "abythr1": {
+    "scientific": "Neocossyphus poensis",
+    "english": "White-tailed Ant-thrush",
+    "russian": "Белохвостый муравьиный дрозд"
+  },
+  "afbfly1": {
+    "scientific": "Melaenornis pammelaina",
+    "english": "African Black Flycatcher",
+    "russian": "Африканская чёрная мухоловка"
+  },
+  "afdfly1": {
+    "scientific": "Terpsiphone viridis",
+    "english": "African Paradise Flycatcher",
+    "russian": "Африканская райская мухоловка"
+  },
+  "afecuc1": {
+    "scientific": "Chrysococcyx cupreus",
+    "english": "African Emerald Cuckoo",
+    "russian": "Африканская изумрудная кукушка"
+  },
+  "affeag1": {
+    "scientific": "Aquila spilogaster",
+    "english": "African Hawk-Eagle",
+    "russian": "Африканский ястребиный орёл"
+  },
+  "afgfly1": {
+    "scientific": "Fraseria ocreata",
+    "english": "African Forest Flycatcher",
+    "russian": "Африканская лесная мухоловка"
+  },
+  "afghor1": {
+    "scientific": "Turdus pelios",
+    "english": "African Thrush",
+    "russian": "Африканский дрозд"
+  },
+  "afmdov1": {
+    "scientific": "Turtur afer",
+    "english": "Blue-spotted Wood Dove",
+    "russian": "Синепятнистая лесная горлица"
+  },
+  "afpfly1": {
+    "scientific": "Melaenornis edolioides",
+    "english": "Northern Black Flycatcher",
+    "russian": "Северная чёрная мухоловка"
+  },
+  "afpkin1": {
+    "scientific": "Halcyon malimbica",
+    "english": "Blue-breasted Kingfisher",
+    "russian": "Синегрудая альциона"
+  },
+  "afpwag1": {
+    "scientific": "Motacilla aguimp",
+    "english": "African Pied Wagtail",
+    "russian": "Африканская пегая трясогузка"
+  },
+  "afrgos1": {
+    "scientific": "Accipiter tachiro",
+    "english": "African Goshawk",
+    "russian": "Африканский ястреб-тетеревятник"
+  },
+  "afrgrp1": {
+    "scientific": "Francolinus bicalcaratus",
+    "english": "Double-spurred Francolin",
+    "russian": "Двухшпоровый турач"
+  },
+  "afrjac1": {
+    "scientific": "Actophilornis africanus",
+    "english": "African Jacana",
+    "russian": "Африканская якана"
+  },
+  "afrthr1": {
+    "scientific": "Turdus libonyana",
+    "english": "Kurrichane Thrush",
+    "russian": "Курриханский дрозд"
+  },
+  "amesun2": {
+    "scientific": "Cinnyris asiaticus",
+    "english": "Purple Sunbird",
+    "russian": "Пурпурная нектарница"
+  },
+  "augbuz1": {
+    "scientific": "Buteo augur",
+    "english": "Augur Buzzard",
+    "russian": "Канюк-авгур"
+  },
+  "bagwea1": {
+    "scientific": "Ploceus baglafecht",
+    "english": "Baglafecht Weaver",
+    "russian": "Ткач Баглафехта"
+  },
+  "barswa": {
+    "scientific": "Hirundo rustica",
+    "english": "Barn Swallow",
+    "russian": "Деревенская ласточка"
+  },
+  "bawhor2": {
+    "scientific": "Cercococcyx mechowi",
+    "english": "Olive Long-tailed Cuckoo",
+    "russian": "Оливковая длиннохвостая кукушка"
+  },
+  "bawman1": {
+    "scientific": "Lonchura bicolor",
+    "english": "Black-and-white Mannikin",
+    "russian": "Черно-белая муния"
+  },
+  "bcbeat1": {
+    "scientific": "Merops bulocki",
+    "english": "Red-throated Bee-eater",
+    "russian": "Красногорлая щурка"
+  },
+  "beasun2": {
+    "scientific": "Cinnyris coccinigastrus",
+    "english": "Splendid Sunbird",
+    "russian": "Великолепная нектарница"
+  },
+  "bkctch1": {
+    "scientific": "Thamnolaea cinnamomeiventris",
+    "english": "Mocking Cliff Chat",
+    "russian": "Скальная чекановая горихвостка"
+  },
+  "bkfruw1": {
+    "scientific": "Pogoniulus scolopaceus",
+    "english": "Speckled Tinkerbird",
+    "russian": "Пятнистый медник"
+  },
+  "blacra1": {
+    "scientific": "Corvus capensis",
+    "english": "Cape Crow",
+    "russian": "Капская ворона"
+  },
+  "blacuc1": {
+    "scientific": "Centropus grillii",
+    "english": "Black Coucal",
+    "russian": "Чёрная шпорцевая кукушка"
+  },
+  "blakit1": {
+    "scientific": "Milvus migrans",
+    "english": "Black Kite",
+    "russian": "Чёрный коршун"
+  },
+  "blaplo1": {
+    "scientific": "Vanellus armatus",
+    "english": "Blacksmith Lapwing",
+    "russian": "Чёрный чибис-кузнец"
+  },
+  "blbpuf2": {
+    "scientific": "Bucorvus leadbeateri",
+    "english": "Southern Ground Hornbill",
+    "russian": "Южный рогатый ворон"
+  },
+  "blcapa2": {
+    "scientific": "Prionops plumatus",
+    "english": "White-crested Helmetshrike",
+    "russian": "Белохохлый шлемоносный сорокопут"
+  },
+  "blfbus1": {
+    "scientific": "Bleda syndactylus",
+    "english": "Red-tailed Bristlebill",
+    "russian": "Краснохвостая щетинкоклювка"
+  },
+  "blhgon1": {
+    "scientific": "Lophotis ruficrista",
+    "english": "Red-crested Bustard",
+    "russian": "Краснохохлая малая дрофа"
+  },
+  "blhher1": {
+    "scientific": "Ardea melanocephala",
+    "english": "Black-headed Heron",
+    "russian": "Черноголовая цапля"
+  },
+  "blksaw1": {
+    "scientific": "Sylvietta whytti",
+    "english": "Green Crombec",
+    "russian": "Зелёный кромбек"
+  },
+  "blnmou1": {
+    "scientific": "Nicator chloris",
+    "english": "Yellow-spotted Nicator",
+    "russian": "Желтопятнистый никатор"
+  },
+  "blnwea1": {
+    "scientific": "Ploceus nigricollis",
+    "english": "Black-necked Weaver",
+    "russian": "Черношейный ткач"
+  },
+  "bltapa1": {
+    "scientific": "Apalis flavida",
+    "english": "Yellow-breasted Apalis",
+    "russian": "Желтогрудый апалис"
+  },
+  "bltbar1": {
+    "scientific": "Lybius minor",
+    "english": "Black-collared Barbet",
+    "russian": "Черношейный бородастик"
+  },
+  "bltori1": {
+    "scientific": "Oriolus brachyrhynchus",
+    "english": "Western Black-headed Oriole",
+    "russian": "Западная черноголовая иволга"
+  },
+  "blwlap1": {
+    "scientific": "Vanellus senegallus",
+    "english": "African Wattled Lapwing",
+    "russian": "Африканский серёжчатый чибис"
+  },
+  "brcale1": {
+    "scientific": "Spermestes cucullata",
+    "english": "Bronze Mannikin",
+    "russian": "Бронзовая муния"
+  },
+  "brcsta1": {
+    "scientific": "Lamprotornis chalybaeus",
+    "english": "Greater Blue-eared Starling",
+    "russian": "Большой синеухий спрео"
+  },
+  "brctch1": {
+    "scientific": "Thamnolaea semirufa",
+    "english": "White-winged Cliff Chat",
+    "russian": "Белокрылая скальная горихвостка"
+  },
+  "brcwea1": {
+    "scientific": "Ploceus cucullatus",
+    "english": "Village Weaver",
+    "russian": "Деревенский ткач"
+  },
+  "brican1": {
+    "scientific": "Serinus mozambicus",
+    "english": "Yellow-fronted Canary",
+    "russian": "Желтолобый канареечный вьюрок"
+  },
+  "brobab1": {
+    "scientific": "Turdoides jardineii",
+    "english": "Arrow-marked Babbler",
+    "russian": "Стрелковая дроздовая тимелия"
+  },
+  "broman1": {
+    "scientific": "Lonchura cucullata",
+    "english": "Bronze Mannikin",
+    "russian": "Бронзовая муния"
+  },
+  "brosun1": {
+    "scientific": "Cinnyris talatala",
+    "english": "White-bellied Sunbird",
+    "russian": "Белобрюхая нектарница"
+  },
+  "brrwhe3": {
+    "scientific": "Cossypha natalensis",
+    "english": "Red-capped Robin-Chat",
+    "russian": "Красношапочный заряночный дрозд"
+  },
+  "brtcha1": {
+    "scientific": "Cossypha heuglini",
+    "english": "White-browed Robin-Chat",
+    "russian": "Белобровый заряночный дрозд"
+  },
+  "brubru1": {
+    "scientific": "Nilaus afer",
+    "english": "Brubru",
+    "russian": "Брубру"
+  },
+  "brwwar1": {
+    "scientific": "Sylvietta brachyura",
+    "english": "Northern Crombec",
+    "russian": "Северный кромбек"
+  },
+  "bswdov1": {
+    "scientific": "Turtur tympanistria",
+    "english": "Tambourine Dove",
+    "russian": "Барабанная горлица"
+  },
+  "btweye2": {
+    "scientific": "Platysteira cyanea",
+    "english": "Brown-throated Wattle-eye",
+    "russian": "Бурогорлая серёжчатая мухоловка"
+  },
+  "bubwar2": {
+    "scientific": "Sylvia lugens",
+    "english": "Brown Warbler",
+    "russian": "Бурая славка"
+  },
+  "butapa1": {
+    "scientific": "Apalis rufogularis",
+    "english": "Buff-throated Apalis",
+    "russian": "Желтогорлый апалис"
+  },
+  "cabgre1": {
+    "scientific": "Sylvia atricapilla",
+    "english": "Eurasian Blackcap",
+    "russian": "Черноголовая славка"
+  },
+  "carcha1": {
+    "scientific": "Cisticola chiniana",
+    "english": "Rattling Cisticola",
+    "russian": "Трещащая цистикола"
+  },
+  "carwoo1": {
+    "scientific": "Camaroptera chloronota",
+    "english": "Olive-green Camaroptera",
+    "russian": "Оливково-зелёная камароптера"
+  },
+  "categr": {
+    "scientific": "Ardeola ralloides",
+    "english": "Squacco Heron",
+    "russian": "Жёлтая цапля"
+  },
+  "ccbeat1": {
+    "scientific": "Merops hirundineus",
+    "english": "Swallow-tailed Bee-eater",
+    "russian": "Ласточкохвостая щурка"
+  },
+  "chespa1": {
+    "scientific": "Passer griseus",
+    "english": "Grey-headed Sparrow",
+    "russian": "Сероголовый воробей"
+  },
+  "chewea1": {
+    "scientific": "Ploceus subaureus",
+    "english": "Eastern Golden Weaver",
+    "russian": "Восточный золотой ткач"
+  },
+  "chibat1": {
+    "scientific": "Batis molitor",
+    "english": "Chinspot Batis",
+    "russian": "Пятнистый батис"
+  },
+  "chtapa3": {
+    "scientific": "Apalis porphyrolaema",
+    "english": "Chestnut-throated Apalis",
+    "russian": "Каштановогорлый апалис"
+  },
+  "chucis1": {
+    "scientific": "Cisticola chubbi",
+    "english": "Chubb's Cisticola",
+    "russian": "Цистикола Чабба"
+  },
+  "cibwar1": {
+    "scientific": "Camaroptera brachyura",
+    "english": "Grey-backed Camaroptera",
+    "russian": "Сероспинная камароптера"
+  },
+  "cohmar1": {
+    "scientific": "Microcarbo africanus",
+    "english": "Reed Cormorant",
+    "russian": "Камышовый баклан"
+  },
+  "colsun2": {
+    "scientific": "Cinnyris venustus",
+    "english": "Variable Sunbird",
+    "russian": "Изменчивая нектарница"
+  },
+  "combul2": {
+    "scientific": "Pycnonotus barbatus",
+    "english": "Common Bulbul",
+    "russian": "Обыкновенный бюльбюль"
+  },
+  "combuz1": {
+    "scientific": "Buteo buteo",
+    "english": "Common Buzzard",
+    "russian": "Обыкновенный канюк"
+  },
+  "comsan": {
+    "scientific": "Riparia riparia",
+    "english": "Common Sand Martin",
+    "russian": "Береговушка"
+  },
+  "crefra2": {
+    "scientific": "Falco chicquera",
+    "english": "Red-necked Falcon",
+    "russian": "Красношейный сокол"
+  },
+  "crheag1": {
+    "scientific": "Circaetus cinereus",
+    "english": "Brown Snake Eagle",
+    "russian": "Бурый змееяд"
+  },
+  "crohor1": {
+    "scientific": "Laniarius erythrogaster",
+    "english": "Black-headed Gonolek",
+    "russian": "Черноголовая гонолек"
+  },
+  "darbar1": {
+    "scientific": "Lybius torquatus",
+    "english": "Black-collared Barbet",
+    "russian": "Черношейный бородастик"
+  },
+  "darter3": {
+    "scientific": "Anhinga melanogaster",
+    "english": "African Darter",
+    "russian": "Африканская змеешейка"
+  },
+  "didcuc1": {
+    "scientific": "Chrysococcyx klaas",
+    "english": "Klaas's Cuckoo",
+    "russian": "Кукушка Клааса"
+  },
+  "dotbar1": {
+    "scientific": "Caprimulgus tristigma",
+    "english": "Freckled Nightjar",
+    "russian": "Пятнистый козодой"
+  },
+  "dutdov1": {
+    "scientific": "Streptopelia decipiens",
+    "english": "Mourning Collared Dove",
+    "russian": "Траурная кольчатая горлица"
+  },
+  "easmog1": {
+    "scientific": "Colius striatus",
+    "english": "Speckled Mousebird",
+    "russian": "Пёстрая птица-мышь"
+  },
+  "eaywag1": {
+    "scientific": "Motacilla flava",
+    "english": "Western Yellow Wagtail",
+    "russian": "Жёлтая трясогузка"
+  },
+  "edcsun3": {
+    "scientific": "Cinnyris mediocris",
+    "english": "Eastern Double-collared Sunbird",
+    "russian": "Восточная двуошейниковая нектарница"
+  },
+  "egygoo": {
+    "scientific": "Alopochen aegyptiaca",
+    "english": "Egyptian Goose",
+    "russian": "Египетский гусь"
+  },
+  "equaka1": {
+    "scientific": "Tockus erythrorhynchus",
+    "english": "Red-billed Hornbill",
+    "russian": "Красноклювый ток"
+  },
+  "eswdov1": {
+    "scientific": "Oena capensis",
+    "english": "Namaqua Dove",
+    "russian": "Капская горлица"
+  },
+  "eubeat1": {
+    "scientific": "Merops albicollis",
+    "english": "White-throated Bee-eater",
+    "russian": "Белогорлая щурка"
+  },
+  "fatrav1": {
+    "scientific": "Coracias caudatus",
+    "english": "Lilac-breasted Roller",
+    "russian": "Сиреневогрудый широкорот"
+  },
+  "fatwid1": {
+    "scientific": "Euplectes axillaris",
+    "english": "Fan-tailed Widowbird",
+    "russian": "Веерохвостый вдовушка"
+  },
+  "fislov1": {
+    "scientific": "Agapornis fischeri",
+    "english": "Fischer's Lovebird",
+    "russian": "Неразлучник Фишера"
+  },
+  "fotdro5": {
+    "scientific": "Streptopelia semitorquata",
+    "english": "Red-eyed Dove",
+    "russian": "Красноглазая горлица"
+  },
+  "gabgos2": {
+    "scientific": "Melierax gabar",
+    "english": "Gabar Goshawk",
+    "russian": "Ястреб-габар"
+  },
+  "gargan": {
+    "scientific": "Spatula querquedula",
+    "english": "Garganey",
+    "russian": "Чирок-трескунок"
+  },
+  "gbesta1": {
+    "scientific": "Poicephalus meyeri",
+    "english": "Meyer's Parrot",
+    "russian": "Попугай Мейера"
+  },
+  "gnbcam2": {
+    "scientific": "Camaroptera brevicaudata",
+    "english": "Grey-backed Camaroptera",
+    "russian": "Сероспинная камароптера"
+  },
+  "gnhsun1": {
+    "scientific": "Cinnyris regius",
+    "english": "Regal Sunbird",
+    "russian": "Королевская нектарница"
+  },
+  "gobbun1": {
+    "scientific": "Pycnonotus goiavier",
+    "english": "Yellow-vented Bulbul",
+    "russian": "Желтобрюхий бюльбюль"
+  },
+  "gobsta5": {
+    "scientific": "Onychognathus morio",
+    "english": "Red-winged Starling",
+    "russian": "Краснокрылый скворец"
+  },
+  "gobwea1": {
+    "scientific": "Ploceus ocularis",
+    "english": "Spectacled Weaver",
+    "russian": "Очковый ткач"
+  },
+  "golher1": {
+    "scientific": "Nycticorax nycticorax",
+    "english": "Black-crowned Night Heron",
+    "russian": "Кваква"
+  },
+  "grbcam1": {
+    "scientific": "Camaroptera superciliaris",
+    "english": "Green-backed Camaroptera",
+    "russian": "Зеленоспинная камароптера"
+  },
+  "grccra1": {
+    "scientific": "Balearica regulorum",
+    "english": "Grey Crowned Crane",
+    "russian": "Восточный венценосный журавль"
+  },
+  "grecor": {
+    "scientific": "Corvus albus",
+    "english": "Pied Crow",
+    "russian": "Пегая ворона"
+  },
+  "greegr": {
+    "scientific": "Egretta garzetta",
+    "english": "Little Egret",
+    "russian": "Малая белая цапля"
+  },
+  "grewoo2": {
+    "scientific": "Picus viridis",
+    "english": "Eurasian Green Woodpecker",
+    "russian": "Зелёный дятел"
+  },
+  "grwpyt1": {
+    "scientific": "Gymnoris pyrgita",
+    "english": "Yellow-spotted Petronia",
+    "russian": "Желтопятнистый каменный воробей"
+  },
+  "gryapa1": {
+    "scientific": "Apalis cinerea",
+    "english": "Grey Apalis",
+    "russian": "Серый апалис"
+  },
+  "grywrw1": {
+    "scientific": "Illadopsis rufipennis",
+    "english": "Pale-breasted Illadopsis",
+    "russian": "Бледногрудая илладапсис"
+  },
+  "gybfis1": {
+    "scientific": "Pseudocalyptomena graueri",
+    "english": "African Green Broadbill",
+    "russian": "Африканский зелёный рогоклюв"
+  },
+  "gycwar3": {
+    "scientific": "Sylvia communis",
+    "english": "Common Whitethroat",
+    "russian": "Серая славка"
+  },
+  "gyhbus1": {
+    "scientific": "Lophoceros nasutus",
+    "english": "African Grey Hornbill",
+    "russian": "Африканский серый ток"
+  },
+  "gyhkin1": {
+    "scientific": "Halcyon leucocephala",
+    "english": "Grey-headed Kingfisher",
+    "russian": "Сероголовая альциона"
+  },
+  "gyhneg1": {
+    "scientific": "Nectarinia veroxii",
+    "english": "Grey Sunbird",
+    "russian": "Серая нектарница"
+  },
+  "gyhspa1": {
+    "scientific": "Passer diffusus",
+    "english": "Southern Grey-headed Sparrow",
+    "russian": "Южный сероголовый воробей"
+  },
+  "gytbar1": {
+    "scientific": "Trachyphonus purpuratus",
+    "english": "Yellow-billed Barbet",
+    "russian": "Желтоклювый бородастик"
+  },
+  "hadibi1": {
+    "scientific": "Bostrychia hagedash",
+    "english": "Hadada Ibis",
+    "russian": "Хадада"
+  },
+  "hamerk1": {
+    "scientific": "Scopus umbretta",
+    "english": "Hamerkop",
+    "russian": "Молотоглав"
+  },
+  "hartur1": {
+    "scientific": "Streptopelia roseogrisea",
+    "english": "African Collared Dove",
+    "russian": "Африканская кольчатая горлица"
+  },
+  "helgui": {
+    "scientific": "Helogale parvula",
+    "english": "Common Dwarf Mongoose",
+    "russian": "Карликовый мангуст"
+  },
+  "hipbab1": {
+    "scientific": "Turdoides hypoleuca",
+    "english": "Northern Pied Babbler",
+    "russian": "Северная пегая дроздовая тимелия"
+  },
+  "hoopoe": {
+    "scientific": "Upupa epops",
+    "english": "Eurasian Hoopoe",
+    "russian": "Удод"
+  },
+  "huncis1": {
+    "scientific": "Cisticola hunteri",
+    "english": "Hunter's Cisticola",
+    "russian": "Цистикола Хантера"
+  },
+  "hunsun2": {
+    "scientific": "Cinnyris hunteri",
+    "english": "Hunter's Sunbird",
+    "russian": "Нектарница Хантера"
+  },
+  "joygre1": {
+    "scientific": "Cinnyris regius",
+    "english": "Regal Sunbird",
+    "russian": "Королевская нектарница"
+  },
+  "kerspa2": {
+    "scientific": "Passer iagoensis",
+    "english": "Cape Verde Sparrow",
+    "russian": "Островной воробей"
+  },
+  "klacuc1": {
+    "scientific": "Centropus superciliosus",
+    "english": "White-browed Coucal",
+    "russian": "Белобровая шпорцевая кукушка"
+  },
+  "kvbsun1": {
+    "scientific": "Cinnyris regius",
+    "english": "Regal Sunbird",
+    "russian": "Королевская нектарница"
+  },
+  "laudov1": {
+    "scientific": "Streptopelia capicola",
+    "english": "Ring-necked Dove",
+    "russian": "Кольчатая горлица"
+  },
+  "lawgol": {
+    "scientific": "Chrysococcyx caprius",
+    "english": "Dideric Cuckoo",
+    "russian": "Бронзовая кукушка"
+  },
+  "lesmaw1": {
+    "scientific": "Microhierax caerulescens",
+    "english": "Collared Falconet",
+    "russian": "Ошейниковый соколок"
+  },
+  "lessts1": {
+    "scientific": "Lamprotornis chloropterus",
+    "english": "Lesser Blue-eared Starling",
+    "russian": "Малый синеухий спрео"
+  },
+  "libeat1": {
+    "scientific": "Merops pusillus",
+    "english": "Little Bee-eater",
+    "russian": "Малая щурка"
+  },
+  "litegr": {
+    "scientific": "Egretta intermedia",
+    "english": "Intermediate Egret",
+    "russian": "Средняя белая цапля"
+  },
+  "litswi1": {
+    "scientific": "Tachybaptus ruficollis",
+    "english": "Little Grebe",
+    "russian": "Малая поганка"
+  },
+  "litwea1": {
+    "scientific": "Ploceus luteolus",
+    "english": "Little Weaver",
+    "russian": "Малый ткач"
+  },
+  "loceag1": {
+    "scientific": "Ichthyophaga humilis",
+    "english": "Lesser Fish Eagle",
+    "russian": "Малый орлан-рыболов"
+  },
+  "lotcor1": {
+    "scientific": "Centropus senegalensis",
+    "english": "Senegal Coucal",
+    "russian": "Сенегальская шпорцевая кукушка"
+  },
+  "lotlap1": {
+    "scientific": "Vanellus vanellus",
+    "english": "Northern Lapwing",
+    "russian": "Чибис"
+  },
+  "luebus1": {
+    "scientific": "Lagonosticta rubricata",
+    "english": "African Firefinch",
+    "russian": "Африканский амарант"
+  },
+  "mabeat1": {
+    "scientific": "Merops nubicus",
+    "english": "Carmine Bee-eater",
+    "russian": "Карминовая щурка"
+  },
+  "macshr1": {
+    "scientific": "Corvinella melanoleuca",
+    "english": "Magpie Shrike",
+    "russian": "Сорочий сорокопут"
+  },
+  "malkin1": {
+    "scientific": "Halcyon albiventris",
+    "english": "Brown-hooded Kingfisher",
+    "russian": "Буроголовая альциона"
+  },
+  "marsto1": {
+    "scientific": "Lamprotornis nitens",
+    "english": "Cape Starling",
+    "russian": "Капский спрео"
+  },
+  "marsun2": {
+    "scientific": "Cinnyris mariquensis",
+    "english": "Marico Sunbird",
+    "russian": "Нектарница Марико"
+  },
+  "mcptit1": {
+    "scientific": "Parus niger",
+    "english": "Southern Black Tit",
+    "russian": "Южная чёрная синица"
+  },
+  "meypar1": {
+    "scientific": "Poicephalus cryptoxanthus",
+    "english": "Brown-headed Parrot",
+    "russian": "Буроголовый попугай"
+  },
+  "moccha1": {
+    "scientific": "Phoeniculus damarensis",
+    "english": "Violet Wood Hoopoe",
+    "russian": "Фиолетовый древесный удод"
+  },
+  "mouwag1": {
+    "scientific": "Motacilla clara",
+    "english": "Mountain Wagtail",
+    "russian": "Горная трясогузка"
+  },
+  "ndcsun2": {
+    "scientific": "Cinnyris chalybeus",
+    "english": "Southern Double-collared Sunbird",
+    "russian": "Южная двуошейниковая нектарница"
+  },
+  "nobfly1": {
+    "scientific": "Melaenornis chocolatinus",
+    "english": "Abyssinian Slaty Flycatcher",
+    "russian": "Абиссинская свинцовая мухоловка"
+  },
+  "norbro1": {
+    "scientific": "Turdoides plebejus",
+    "english": "Brown Babbler",
+    "russian": "Бурая дроздовая тимелия"
+  },
+  "norcro1": {
+    "scientific": "Centropus monachus",
+    "english": "Blue-headed Coucal",
+    "russian": "Синеголовая шпорцевая кукушка"
+  },
+  "norfis1": {
+    "scientific": "Haliaeetus vocifer",
+    "english": "African Fish Eagle",
+    "russian": "Орлан-крикун"
+  },
+  "norpuf1": {
+    "scientific": "Pogoniulus bilineatus",
+    "english": "Yellow-rumped Tinkerbird",
+    "russian": "Желтопоясничный медник"
+  },
+  "nubwoo1": {
+    "scientific": "Campethera nubica",
+    "english": "Nubian Woodpecker",
+    "russian": "Нубийский дятел"
+  },
+  "pabspa1": {
+    "scientific": "Gymnoris superciliaris",
+    "english": "Yellow-throated Petronia",
+    "russian": "Желтогорлый каменный воробей"
+  },
+  "palfly2": {
+    "scientific": "Melaenornis pallidus",
+    "english": "Pale Flycatcher",
+    "russian": "Бледная мухоловка"
+  },
+  "palpri1": {
+    "scientific": "Oriolus auratus",
+    "english": "African Golden Oriole",
+    "russian": "Африканская золотистая иволга"
+  },
+  "piecro1": {
+    "scientific": "Corvus albus",
+    "english": "Pied Crow"
+  },
+  "thrnig1": [
+    "Черноголовая славка"
+  ],
+  "rbsrob1": [
+    "Рыжебрюхий робин"
+  ]
+}
