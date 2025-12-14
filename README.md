@@ -18,11 +18,12 @@
 ### Вариант 1: Google Colab (рекомендуется)
 Нажмите на кнопку ниже для запуска в Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ВАШЕ_ИМЯ/НАЗВАНИЕ_РЕПОЗИТОРИЯ/blob/main/demo_birds.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndyKasen/birds_recognazing/blob/main/demo_birds.ipynb)
 
+RAW_link : https://raw.githubusercontent.com/AndyKasen/birds_recognizing/refs/heads/main/demo_birds.ipynb
 ### Вариант 2: Локальный запуск
 ```bash
-git clone https://github.com/ВАШЕ_ИМЯ/НАЗВАНИЕ_РЕПОЗИТОРИЯ.git
-cd НАЗВАНИЕ_РЕПОЗИТОРИЯ
+git clone git clone https://github.com/AndyKasen/birds_recognizing.git
+cd birds_recognizing.git
 pip install -r requirements.txt
 jupyter notebook demo_birds.ipynb
